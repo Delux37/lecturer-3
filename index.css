@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+}
+
+
+/* p {
+    color: green;
+}
+
+div {
+    height: 30px;
+    margin-bottom: 30px;
+
+}
+
+.someClass {
+    background-color: blue;
+}
+
+#divId {
+    background-color: red;
+    border: 2px solid black;
+} */
+
+/* .red {
+    color: red;
+} */
+
+/* form div:not(#dontColorMe) {
+    color: blue;
+} */
+
+/* form .formGroup:not(main) {
+    color: red;
+} */
+
+
+/* form main:not(.formGroup) {
+
+}
+
+form main.formGroup.formGroup2#someId {
+    
+} */
+
+/* * {
+    color: red;
+}
+
+form main.formGroup.styleMe {
+    color: red;
+} */
+
+/* 2 + 10*/
+/* body div:last-of-type {
+    background-color: brown;
+} */
+
+/* 100 */
+/* .div2.div3.div4.div5.div6.div7.div8.div9.div1.div10.div12 { 
+    background-color: green;
+}
+
+.div2.div3.div4.div5.div6.div7.div8.div9.div1.div10.div12 { 
+    background-color: green;
+} */
+
+/* div#someId {
+    background-color: red;
+}
+
+/* 100 */
+
+button {
+    background-color:  yellow;
+    padding: 20px;
+}
+
+button:hover {
+    background-color: red;
+}
+
+/* button:visited {
+    background-color: green;
+} */
+
+button:active {
+    background-color: blue;
+}
+
+button:focus {
+    background-color: aqua;
+}
+/* button:focus {
+    background-color: yellow;
+} */
+
+div {
+    color: red;
+    font-size: 30px;
+}
+
+.innerP {
+    background-color: inherit;
+    /* color: inherit; */
+    /* font-size: inherit; */
+}
+
+
+div {
+    margin: 20px;
+    background-color: blue;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 5px dashed black;
+    /* border-width: 10px;
+    border-style: solid;
+    border-color: green; */
+}
